@@ -1,0 +1,32 @@
+{
+  "informação de usuário": {
+    "nome de usuário": "7448346",
+    "senha": "3292471",
+    "mensagem": nulo,
+    "autenticação": 1,
+    "status": "Ativo",
+    "data_exp": "1712714400",
+    "is_trial": "0",
+    "ativo_cons": 2,
+    "criado_em": nulo,
+    "max_conexões": "2",
+    "formatos_de_saída_permitidos": [
+      "m3u8",
+      "ts",
+      "rtmp"
+    ]
+  },
+  "informações_servidor": {
+    "xui": verdadeiro,
+    "versão": "1.5.5",
+    "revisão": 2,
+    "url": "oneplaytv.red",
+    "porta": "80",
+    "https_port": "443",
+    "server_protocol": "http",
+    "rtmp_port": "8880",
+    "timestamp_now": 1711399433,
+    "time_now": "25/03/2024 17:43:53",
+    "fuso horário": "América/São Paulo"
+  }
+}
